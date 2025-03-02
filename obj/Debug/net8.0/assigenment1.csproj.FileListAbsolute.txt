@@ -12,3 +12,4 @@ E:\Copolur\Assigenments\assigenment1\obj\Debug\net8.0\refint\assigenment1.dll
 E:\Copolur\Assigenments\assigenment1\obj\Debug\net8.0\assigenment1.pdb
 E:\Copolur\Assigenments\assigenment1\obj\Debug\net8.0\assigenment1.genruntimeconfig.cache
 E:\Copolur\Assigenments\assigenment1\obj\Debug\net8.0\ref\assigenment1.dll
+E:\Copolur\Assigenments\assigenment1\obj\Debug\net8.0\assigenment1.sourcelink.json
