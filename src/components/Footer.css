@@ -1,0 +1,26 @@
+/* src/components/Footer.css */
+
+.footer {
+  background-color: #111827; /* dark background */
+  color: #e5e7eb; /* light gray text */
+  padding: 20px 30px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.footer-links {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.footer-links a {
+  color: #9ca3af;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #60a5fa; /* light blue on hover */
+}
