@@ -1,4 +1,4 @@
-# Logs
+git push -u origin master # Logs
 logs
 *.log
 npm-debug.log*
